@@ -1,2 +1,3 @@
 # InvertedIndex
-An implementation of program that implements inverted index which you can use to search in a large data set
+An implementation of building an inverted index.
+After building invertd index then you can search with a word in a large data set.
